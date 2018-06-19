@@ -6,9 +6,5 @@
 
 ## Call for papers
 
-| Home                 | CfP                  | Organizing committee |
 |:--------------------:|:--------------------:|:--------------------:|
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-
+| Home                 | CfP                  | Organizing committee |
