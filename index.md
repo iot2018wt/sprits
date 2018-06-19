@@ -1,4 +1,4 @@
-<html><style>img {margin: 0 !important; border: 0 !important;}</style></html>
+<style>img {margin: 0 !important; border: 0 !important;}</style>
 
 # First International workshop on Semantic Processing and Reasoning for IoT Systems (SPRITS)
 
