@@ -4,6 +4,3 @@
 
 **Page under construction**
 
-| **[Home](#)**                      | [CfP](cfp.md)                      | [Organizing committee](cp.md)     |
-|:---:|:---:|:---:|
-|     |     |     |
