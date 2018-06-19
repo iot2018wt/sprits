@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 
-title: <a href='/index'><img src="SPRITS_logo.png" style="width: 100%;"> SPRITS 2018</a>
+title: <a href='.'><img src="SPRITS_logo.png" width="100%"> SPRITS 2018</a>
 description: [<ul><li><a href='#'>Home</a></li><li><a href='/sprits/cfp'>CfP</a></li><li><a href='/sprits/pc'>Program Committee</a></li></ul>]
