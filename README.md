@@ -8,3 +8,7 @@
 
 | Home                 | CfP                  | Organizing committee |
 |:--------------------:|:--------------------:|:--------------------:|
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
