@@ -24,6 +24,8 @@ This semantic view relies on the semantic Web and its well-known stack. People a
 
 SPRITS will be held as a half-day workshop, comprising a keynote and paper presentations. The date and keynote will be annouced soon on this page.
 
+### Expected contributions
+
 We call for research and in-use papers:
 
   - research papers should report on novel research contributions addressing theoretical, analytical and empirical aspects of semantic processing and reasoning techniques in the Internet of Things.
