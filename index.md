@@ -4,9 +4,21 @@
 
 **An event of the [IoT 2018 conference](http://iot-conference.org/iot2018), October 15-18 2018, Santa Barbara, California**
 
-This is the first edition of the SPRITS workshop. The topics of the workshop are complementary to the main conference, as it puts a semantic view on top of the IoT, to apply semantic processing or semantic reasoning. 
+### Workshop presentation
+
+Distributed processing, as well as semantic reasoning are a key issue to reduce network load, as well as processing workload on IoT infrastructures (systems). Relocating processing and data deduction closer to the operating devices of an infrastructure will help saving energy and improve for instance battery life. Using semantic reasoning algorithms, on the other hand, allows reusing existing descriptions and standards and fosters interoperability in open networks.
 
 This semantic view relies on the semantic Web and its well-known stack. People at the crossroads of Semantic Web and Internet of Things are fully concerned by the topics of this workshop. Today, a very active community works on the Web of Things and can be attracted to the workshop and its hosting conference. More precisely, this workshop aims at bringing together research communities such as edge computing, embedded processing, low-end/constrained devices, semantic interoperability, data deduction, standard-based and open infrastructures.
+
+### Topics of interest covered by the workshop
+
+- Semantic-based data fusion for mutimodel sensor data
+- Semantic Stream Processing for sensor data
+- Semantic storage and Query Processing for IoT and Web of Things data
+- Distributed algorithms and platforms for Semantic Processing and Reasoning
+- Fog/Edge Computing paradigms and deployments on semantic-based IoT Data
+- Reasoning optimisation for low-end devices
+- Edge/fog-based reasoning
 
 ### Organization and Format
 
