@@ -12,7 +12,7 @@
   - [Danh Le Phuoc](http://danhlephuoc.info), TU Berlin, Germany 
 
 
-### Program Committee
+### Program Committee members
 
   - Sebastian Bader, Fraunhofer-Gesellschaft, Germany
   - Pierre-Antoine Champin - Université Claude Bernard Lyon 1, France
