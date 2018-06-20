@@ -34,3 +34,7 @@ We call for research and in-use papers:
   - in-use papers should demonstrate the use of semantic processing and reasoning in actual or realistic setups or situations.
 
 Authors are invited to submit papers in any of these categories in a long (8 pages) or short (4 pages) format. Accepted papers will be published on CEUR (http://ceur-ws.org/). See our [Call for Papers](https://iot2018wt.github.io/sprits/cfp) for more details about the submission process.
+
+### Contact
+
+[sprits2018@easychair.org](mailto:sprits2018@easychair.org)
