@@ -24,7 +24,7 @@ This semantic view relies on the semantic Web and its well-known stack. People a
 
 SPRITS will be held as a half-day workshop, comprising a keynote and paper presentations.
 
-The date, keynote and program will be annouced soon on this page...
+The date, keynote and program will be announced soon on this page...
 
 ### Expected contributions
 
