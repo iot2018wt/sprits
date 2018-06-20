@@ -37,4 +37,4 @@ Authors are invited to submit papers in any of these categories in a long (8 pag
 
 ### Contact
 
-[sprits2018@easychair.org](mailto:sprits2018@easychair.org)
+sprits2018 at easychair dot org
