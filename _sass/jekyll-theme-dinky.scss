@@ -359,11 +359,16 @@ footer {
 
   header {
     padding-right:320px;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
     column-count: 2;
-    column-gap: 40px;
+    -webkit-column-gap: 50px;
+    -moz-column-gap: 50px;
+    column-gap: 50px;
   }
 
   p.header {
+    -webkit-column-span: all;
     column-span: all;
   }
 
@@ -384,17 +389,17 @@ footer {
 
   header {
     padding:10px 20px 0;
-		margin-right: 0;
+    margin-right: 0;
   }
 
-	section {
+  section {
     padding:10px 0 10px 20px;
     margin:0 0 30px;
   }
 
-	footer {
-		margin: 0 0 0 30px;
-	}
+  footer {
+    margin: 0 0 0 30px;
+  }
 
   header ul, header p.view {
     position:static;
