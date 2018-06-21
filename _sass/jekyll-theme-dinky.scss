@@ -401,7 +401,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
 
-  header ul li.download {
+  header ul li.download, header h1 img {
     display:none;
   }
 
