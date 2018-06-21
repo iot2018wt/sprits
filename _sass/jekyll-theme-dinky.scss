@@ -405,14 +405,17 @@ footer {
     display:none;
   }
 
-	footer {
-		margin: 0 0 0 20px;
-	}
+  footer {
+    margin: 0 0 0 20px;
+  }
 
-	footer a{
-		display:block;
-	}
+  footer a{
+    display:block;
+  }
 
+  header {
+    column-count: 0;
+  }
 }
 
 @media print {
