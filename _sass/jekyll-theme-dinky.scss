@@ -358,6 +358,7 @@ footer {
 
   header {
     padding-right:320px;
+    column-count: 2;
   }
 
   section {
@@ -367,12 +368,6 @@ footer {
 
   header a small {
     display:inline;
-  }
-
-  header ul {
-    position:absolute;
-    right:130px;
-    top:84px;
   }
 }
 
