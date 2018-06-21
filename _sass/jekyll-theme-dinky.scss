@@ -146,10 +146,10 @@ hr {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 140px;
+  max-width: 180px;
   padding: 5px;
   margin: 0;
-  border: 0 !important;
+  border: 0;
 }
 
 p img, .emoji {
@@ -359,6 +359,7 @@ footer {
   header {
     padding-right:320px;
     column-count: 2;
+    column-gap: 40px;
   }
 
   p.header {
