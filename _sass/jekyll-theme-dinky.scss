@@ -397,6 +397,10 @@ footer {
   header ul, header p.view {
     position:static;
   }
+
+  header h1 img {
+    display:none;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
