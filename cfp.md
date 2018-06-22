@@ -37,4 +37,4 @@ Accepted papers will be published on CEUR (http://ceur-ws.org/).
 
 ### Full CfP
 
-A complete, printable version of this call for papers in PDF is available [./Sprits-Call-for-papers.pdf](here).
+A complete, printable version of this call for papers in PDF is available [here](./Sprits-Call-for-papers.pdf).
