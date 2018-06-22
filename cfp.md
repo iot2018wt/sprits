@@ -34,3 +34,7 @@ Accepted papers will be published on CEUR (http://ceur-ws.org/).
   - Late Registration starts: September, 7
   - Camera-ready papers: September, 20
   - Workshop: during the conference (October, 15-18), precise date TBA
+
+### Full CfP
+
+A complete, printable version of this call for papers in PDF is available [./Sprits-Call-for-papers.pdf](here).
