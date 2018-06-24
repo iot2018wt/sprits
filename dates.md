@@ -4,8 +4,8 @@
 
 ### Important dates
 
-  - Submission deadline: August, 15
-  - Notification: September, 5
+  - **Submissions: August, 15**
+  - Notifications: September, 5
   - Late Registration starts: September, 7
   - Camera-ready papers: September, 20
   - Workshop: during the conference (October, 15-18), precise date TBA
